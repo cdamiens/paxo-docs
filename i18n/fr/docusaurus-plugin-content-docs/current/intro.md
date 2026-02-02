@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Vous trouverez ici toutes les ressources dont vous avez besoin pour tirer pleinement partie de votre Paxophone.
 
-## Project layout
+## Organisation de la documentation
 
 ```text
     ├── docs 
