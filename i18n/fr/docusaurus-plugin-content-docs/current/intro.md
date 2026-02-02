@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Welcome to Paxo Docs
 
-Here, you will find all the resources you need to make the most of your Paxophone.
+Vous trouverez ici toutes les ressources dont vous avez besoin pour tirer pleinement partie de votre Paxophone.
 
 ## Project layout
 
@@ -12,5 +12,5 @@ Here, you will find all the resources you need to make the most of your Paxophon
     ├── docs 
        ├── installation   # How to assemble, flash and prepare your paxophone
        ├── modules        # The modules embedded in PaxOS system
-       └── references     # Ressources to develop PaxOS applications.
+       └── references     # Documentation pour le développement d'applications
 ```

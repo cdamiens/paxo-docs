@@ -3,6 +3,14 @@
     "message": "Next",
     "description": "The label for version current"
   },
+  "sidebar.tutorialSidebar.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation.link.generated-index.description": {
+    "message": "lorem impsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "The generated-index page description for category Installation in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Modules": {
     "message": "Modules",
     "description": "The label for category Modules in sidebar tutorialSidebar"
