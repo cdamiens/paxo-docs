@@ -10,7 +10,7 @@ Vous trouverez ici toutes les ressources dont vous avez besoin pour tirer pleine
 
 ```text
     ├── docs 
-       ├── installation   # How to assemble, flash and prepare your paxophone
-       ├── modules        # The modules embedded in PaxOS system
+       ├── installation   # Comment assembler, flasher et préparer votre Paxophone
+       ├── modules        # Détaille les modules embarqués dans le système PaxOS
        └── references     # Documentation pour le développement d'applications
 ```
