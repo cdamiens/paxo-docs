@@ -23,15 +23,17 @@ Instructions pour installer le firmware sur l'ESP.
 ### Sur le navigateur
 
 Se rendre sur le [site du Paxo](https://www.paxo.fr/flash).  
-Dans le menu en haut à gauche, cliquer sur **"Flasher"**.
+Dans le menu en haut à droite, cliquer sur **"Flasher"**.
 ![Screenshot1](/img/screenshots/Firmware-1.png)
 
 ### Brancher le paxophone
 
-Brancher le Paxophone sous tension au port USB de votre ordinateur.  
-Cliquer sur le bouton **"Connecter & installer PaxOS-9"**.  
-Choisir le port sur lequel est branché le Paxophone (contient généralement "USB" dans son nom).  
-Cliquer sur le bouton **"Connexion"**.
+Brancher le Paxophone sous tension au port USB de votre ordinateur.
+
+1. Cliquer sur le bouton **"Connecter & installer PaxOS-9"**.
+2. Choisir le port sur lequel est branché le Paxophone (contient généralement "USB" dans son nom).
+3. Cliquer sur le bouton **"Connexion"**.
+
 ![Screenshot4](/img/screenshots/Firmware-4.png)
 
 ### Lancer l'installation
@@ -40,7 +42,7 @@ Si le Paxophone est bien reconnu sur le port, une fenêtre proposant l'installat
 Cliquer sur **"Install PaxOS9 Alpha"**.
 ![Screenshot5](/img/screenshots/Firmware-5.png)
 
-Une fenêtre vous propose d'effacer votre appareil.  
+Une fenêtre propose d'effacer l'appareil.  
 Laisser la case décochée et cliquer sur **"Next"**.
 ![Screenshot6](/img/screenshots/Firmware-6.png)
 
