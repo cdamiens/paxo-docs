@@ -2,40 +2,50 @@
 
 Instructions pour installer le firmware sur l'ESP.
 
-## Méthode via le navigateur (Recommandée)
+## Méthode via le navigateur (recommandée)
 
 ### Pré-requis
 
 - Paxophone monté.
-- Câble USB-C vers USB-A ou USB-C (selon le port disponible sur le PC)
-- Navigateur Chrome ou Edge. Note: Test KO sur Chromium.
+- Câble USB-C vers USB-A ou USB-C (selon le type de port disponible sur l'ordinateur).
+- Navigateur Chrome ou Edge.
+
+<!-- Bloc Info -->
+> ℹ️ **Info**
+>
+> > Cette documentation a été réalisée à partir d'un ordinateur avec `Fedora43` et `Chrome144`.
+
+<!-- Bloc Warning -->
+> ⚠️ **Point d'attention**
+>
+> > L'utilisation de `Chromium144` pour dérouler cette procédure aboutit à une erreur `Installation failed: Failed to initialize. Try resetting your device or holding the BOOT button while clicking INSTALL.`.
 
 ### Sur le navigateur
 
 Se rendre sur le [site du Paxo](https://www.paxo.fr/flash).  
-Dans le menu en haut à gauche, cliquer sur "Flasher".
+Dans le menu en haut à gauche, cliquer sur **"Flasher"**.
 ![Screenshot1](/img/screenshots/Firmware-1.png)
 
 ### Brancher le paxophone
 
-A cette étape, brancher le Paxophone sous tension au port USB de votre ordinateur.  
-Cliquer sur le bouton "Connecter & installer PaxOS-9".  
+Brancher le Paxophone sous tension au port USB de votre ordinateur.  
+Cliquer sur le bouton **"Connecter & installer PaxOS-9"**.  
 Choisir le port sur lequel est branché le Paxophone (contient généralement "USB" dans son nom).  
-Cliquer sur le bouton "Connexion".
+Cliquer sur le bouton **"Connexion"**.
 ![Screenshot4](/img/screenshots/Firmware-4.png)
 
 ### Lancer l'installation
 
 Si le Paxophone est bien reconnu sur le port, une fenêtre proposant l'installation du système PaxOS s'affiche.  
-Cliquer sur "Install PaxOS9 Alpha".
+Cliquer sur **"Install PaxOS9 Alpha"**.
 ![Screenshot5](/img/screenshots/Firmware-5.png)
 
 Une fenêtre vous propose d'effacer votre appareil.  
-Laisser la case décochée et cliquer sur "Next".
+Laisser la case décochée et cliquer sur **"Next"**.
 ![Screenshot6](/img/screenshots/Firmware-6.png)
 
 Une fenêtre de confirmation s'affiche.  
-Cliquer sur "Install".
+Cliquer sur **"Install"**.
 ![Screenshot7](/img/screenshots/Firmware-7.png)
 
 L'installation s'effectue et la progression s'affiche.  
@@ -45,7 +55,7 @@ Environ 2 minutes sont nécessaires pour terminer cette étape.
 ## Fin de la procédure
 
 L'installation est maintenant terminée.  
-Cliquer sur "Next".  
+Cliquer sur **"Next"**.  
 Débrancher le Paxophone.
 ![Screenshot9](/img/screenshots/Firmware-9.png)
 
