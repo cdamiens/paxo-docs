@@ -9,8 +9,8 @@ Here you will find all the resources you need to get the most out of your Paxoph
 ## Documentation Structure
 
 ```text
-    ├── docs 
-       ├── installation   # How to assemble, flash, and prepare your Paxophone
-       ├── modules        # Details the modules embedded in the PaxOS system
-       └── references     # Documentation for application development
+    ├── Docs 
+       ├── Installation   # How to assemble, flash, and prepare your Paxophone.
+       ├── Modules        # Details the modules embedded in the PaxOS system.
+       └── References     # Documentation for application development.
 ```
