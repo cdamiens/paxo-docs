@@ -15,11 +15,6 @@ Instructions for installing the firmware on the ESP.
 >
 > > This documentation was created from a computer running `Fedora43` and `Chrome144`.
 
-<!-- Warning Block -->
-> ⚠️ **Important Note**
->
-> > Using `Chromium144` to perform this procedure results in an error: `Installation failed: Failed to initialize. Try resetting your device or holding the BOOT button while clicking INSTALL.`
-
 ### In the browser
 
 Go to the [Paxophone website](https://www.paxo.fr/flash).  

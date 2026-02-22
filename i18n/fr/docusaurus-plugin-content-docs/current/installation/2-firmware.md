@@ -15,11 +15,6 @@ Instructions pour installer le firmware sur l'ESP.
 >
 > > Cette documentation a été réalisée à partir d'un ordinateur avec `Fedora43` et `Chrome144`.
 
-<!-- Bloc Warning -->
-> ⚠️ **Point d'attention**
->
-> > L'utilisation de `Chromium144` pour dérouler cette procédure aboutit à une erreur `Installation failed: Failed to initialize. Try resetting your device or holding the BOOT button while clicking INSTALL.`.
-
 ### Sur le navigateur
 
 Se rendre sur le [site du Paxo](https://www.paxo.fr/flash).  
